@@ -17,6 +17,7 @@ AI Artathon 2.0 Submission
 - OpenCV
 - GAN (Generative Adversarial Network)
 - VoxelFuse
+- blender
 
 ## Author
 
