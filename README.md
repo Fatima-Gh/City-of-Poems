@@ -15,6 +15,8 @@ AI Artathon 2.0 Submission
 - Python
 - Aleph2Image (CLIP & DALL-E)
 - OpenCV
+- GAN (Generative Adversarial Network)
+- VoxelFuse
 
 ## Author
 
