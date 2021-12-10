@@ -10,16 +10,26 @@ AI Artathon 2.0 Submission
 - [Repo](https://github.com/Fatima-Gh/City-of-Poems/ "City of Poems Repo")
 
 
-## Built With
+## ML/DL Approaches and Tools Used
 
-- Python
-- Aleph2Image (CLIP & DALL-E)
-- OpenCV
-- GAN (Generative Adversarial Network)
-- VoxelFuse
-- blender
+- Python 3.8.
+- Aleph2Image (CLIP & DALL-E) for text-to-image generation, code by [Ryan Murdock](https://twitter.com/advadnoun).
+- OpenCV.
+- GAN (Generative Adversarial Network).
+- VoxelFuse.
+- blender.
+- Interactive Region Growing Segmentation, code by [Samarth Gupta](https://github.com/SamarthGupta93/Interactive-Region-Growing-Segmentation).
+- Simple Linear Iterative Clustering (SLIC).
+- Graph-based Image Segmentation (Felzenszwalb).
+- Google Image Scraper using Search Terms code by [Jayden Oh Yicong](https://github.com/ohyicong/Google-Image-Scraper).
+- Selenium.
 
-## Author
+
+## Collected Dataset 📜
+- Over 176,000 images were scraped from Google with a total size of 4.15 GB. Original Google scraper code is by 
+- Text that was used to scrape images is from 58K Arabic poems dataset by [Fahd](https://www.kaggle.com/fahd09/arabic-poetry-dataset-478-2017) on Kaggle.
+
+## Authors
 
 **Fatima AlGhamdi**
 
