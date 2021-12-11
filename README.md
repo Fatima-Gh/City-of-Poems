@@ -35,7 +35,6 @@ AI Artathon 2.0 Submission
 **Fatima AlGhamdi**
 
 - [Profile](https://github.com/Fatima-Gh "Fatima AlGhamdi")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
 
 **Wafa AlGhamdi**
 
